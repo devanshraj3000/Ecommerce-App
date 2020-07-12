@@ -22,7 +22,7 @@ Compare the prices of the searched product obtained from different websites
 
 
 * **Profile**:
-
+User can use their email address to make their profile in the app.
 User must get coins/scratch card once a day when opening the app and when buying products.
 
 * **Goals**
