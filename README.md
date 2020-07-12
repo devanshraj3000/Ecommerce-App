@@ -23,8 +23,8 @@ Compare the prices of the searched product obtained from different websites
 
 * **Profile**:
 
-User must get coins/scratch card once a day when opening the app and when buying Indian products.
+User must get coins/scratch card once a day when opening the app and when buying products.
 
 * **Goals**
 
-Ecommerce app to display various products and compare prices so that products can be bought directly from the app instead of visiting multiple sites. The app will focus on Indian products and mention whether products are Indian or not. Incentives must be given to the users to visit the app and buy Indian products.
+Ecommerce app to display various products and compare prices so that products can be bought directly from the app instead of visiting multiple sites. The app will focus on Indian products and mention whether products are Indian or not.
