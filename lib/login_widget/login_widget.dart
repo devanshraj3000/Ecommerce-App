@@ -9,15 +9,15 @@
 import 'package:flutter/material.dart';
 import 'package:spacebook/tab_bar_widget/tab_bar_widget.dart';
 import 'package:spacebook/values/values.dart';
+import 'package:spacebook/signup_widget/reset_password.dart';
 
 
 class LoginWidget extends StatelessWidget {
   
   void onLoginPressed(BuildContext context) => Navigator.push(context, MaterialPageRoute(builder: (context) => TabBarWidget()));
   
-  void onForgotYourPasswordPressed(BuildContext context) {
-  
-  }
+  void onForgotYourPasswordPressed(BuildContext context) => Navigator.push(
+     context, MaterialPageRoute(builder: (context) => Reset_Password()));
   
   void onGroupPressed(BuildContext context) => Navigator.pop(context);
   
